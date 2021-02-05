@@ -14,7 +14,7 @@ A primeira coisa a fazer depois de instalar a biblioteca é adicionar o módulo 
 
 ### Importando no módulo
 
-
+```javascript
     import { BrowserModule } from '@angular/platform-browser';
     import { NgModule } from '@angular/core';
     import { FormsModule } from '@angular/forms';
@@ -37,6 +37,7 @@ A primeira coisa a fazer depois de instalar a biblioteca é adicionar o módulo 
       bootstrap: [AppComponent]
     })
     export class AppModule { }
+```
 
 ### Usando o componente
 
