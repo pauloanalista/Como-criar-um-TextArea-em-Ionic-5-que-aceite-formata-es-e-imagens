@@ -311,3 +311,4 @@ export class TicketNovoPageModule {}
 ```
 
 ### Funcionalidade em ação
+![](https://github.com/pauloanalista/Como-criar-um-TextArea-em-Ionic-5-que-aceite-formatacoes-e-imagens/blob/main/rooster.gif)
