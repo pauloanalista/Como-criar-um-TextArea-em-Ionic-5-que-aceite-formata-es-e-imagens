@@ -313,3 +313,18 @@ export class TicketNovoPageModule {}
 
 ### Funcionalidade em ação
 ![](https://github.com/pauloanalista/Como-criar-um-TextArea-em-Ionic-5-que-aceite-formatacoes-e-imagens/blob/main/rooster.gif)
+
+
+# VEJA TAMBÉM
+## Grupo de Estudo no Telegram
+- [Participe gratuitamente do grupo de estudo](https://t.me/blogilovecode)
+
+## Cursos baratos!
+- [Meus cursos na Udemy](https://olha.la/udemy)
+- [Outros cursos](https://olha.la/cursos)
+
+## Fique ligado, acesse!
+- [Blog ILoveCode](https://ilovecode.com.br)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
